@@ -1,16 +1,91 @@
-# React + Vite
+# Ankit Bhardwaj — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive and animated personal portfolio website showcasing my projects, technical skills, experience, education and journey as a Flutter and Frontend Developer.
 
-Currently, two official plugins are available:
+## Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Visit the live website:
 
-## React Compiler
+**ankitbhardwaj2710.github.io**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## About
 
-## Expanding the ESLint configuration
+I'm Ankit Bhardwaj, a B.Tech Computer Science Engineering (AI & ML) student and developer focused on building modern mobile and web experiences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+My primary interests include:
+
+- Flutter application development
+- Frontend development
+- React.js
+- Firebase integration
+- Modern UI development
+- AI/ML-powered applications
+
+## Featured Projects
+
+### FitPulse — Fitness Tracker
+
+A modern Flutter fitness tracking application for managing workouts, tracking daily water intake, monitoring activity and maintaining fitness goals.
+
+**Tech Stack:** Flutter, Dart, SQLite, Local Notifications
+
+### Lingo Learn — Language Learning App
+
+An interactive language learning application featuring vocabulary practice, pronunciation, quizzes, progress tracking, daily streaks, categories, favorites and Firebase authentication.
+
+**Tech Stack:** Flutter, Dart, Firebase, Firestore
+
+### Flashcard Quiz App
+
+A feature-rich flashcard learning application with card management, categories, search, flip animations, quiz scoring and local data persistence.
+
+**Tech Stack:** Flutter, Dart, SQLite, Provider
+
+## Tech Stack
+
+### Mobile Development
+Flutter · Dart · Firebase
+
+### Frontend Development
+React.js · JavaScript · HTML · CSS · Tailwind CSS
+
+### Programming
+Python · Dart · JavaScript · SQL
+
+### Tools
+Git · GitHub · VS Code · Android Studio
+
+## Portfolio Features
+
+- Modern dark UI
+- Fully responsive design
+- Smooth scroll animations
+- Animated project showcase
+- Experience timeline
+- Education and certifications section
+- Resume download
+- Mobile navigation menu
+- GitHub and LinkedIn integration
+- Automated GitHub Pages deployment
+
+## Built With
+
+- React
+- Vite
+- Framer Motion
+- Lucide React
+- CSS
+
+## Deployment
+
+The portfolio is automatically built and deployed to GitHub Pages using GitHub Actions.
+
+## Connect With Me
+
+**GitHub:** ankitbhardwaj2710  
+**LinkedIn:** Ankit Bhardwaj  
+**Portfolio:** ankitbhardwaj2710.github.io
+
+---
+
+Designed and built by **Ankit Bhardwaj**.

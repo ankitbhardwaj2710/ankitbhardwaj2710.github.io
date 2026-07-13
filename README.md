@@ -82,8 +82,8 @@ The portfolio is automatically built and deployed to GitHub Pages using GitHub A
 
 ## Connect With Me
 
-**GitHub:** ankitbhardwaj2710  
-**LinkedIn:** Ankit Bhardwaj  
+**GitHub:** [ankitbhardwaj2710](https://github.com/ankitbhardwaj2710)  
+**LinkedIn:** www.linkedin.com/in/ankit-bhardwaj-612b34334
 **Portfolio:** ankitbhardwaj2710.github.io
 
 ---
